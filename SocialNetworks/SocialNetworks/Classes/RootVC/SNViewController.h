@@ -15,4 +15,6 @@
 
 @property (nonatomic, retain) IBOutlet UITableView *socialListTableView;
 
+#pragma mark Instance Methods
+
 @end
