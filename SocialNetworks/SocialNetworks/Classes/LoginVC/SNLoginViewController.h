@@ -36,4 +36,7 @@ typedef enum
 - (void)setupForFoursquare;
 - (void)setupForGoogle;
 
+
+- (void)parseFacebookDetails;
+
 @end
